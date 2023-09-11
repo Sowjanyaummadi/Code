@@ -1,2 +1,2 @@
 # Code
-Python
+print("Code')
